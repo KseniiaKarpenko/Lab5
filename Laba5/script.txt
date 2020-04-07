@@ -1,0 +1,10 @@
+add {Name3; 7; 0.6; 03.04.2019; 3; JAZ; Studio2}
+add {Name4; 1; 4.5; 03.07.2019; 4; SOUL; }
+filter_less_than_studio Studio9
+filter_by_genre POP
+average_of_number_of_participants
+help
+info
+show
+remove_by_id 2
+save
