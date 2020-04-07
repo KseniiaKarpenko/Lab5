@@ -1,0 +1,2 @@
+cd Laba5
+java18 -jar Laba5.jar InPut.csv
